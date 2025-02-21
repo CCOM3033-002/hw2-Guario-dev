@@ -66,5 +66,4 @@ int main (){
     cout << "\tLa suma de ambas fracciones es: " << resul_num << "/" << resul_denom << endl;
 
     return 0;
-
 }
